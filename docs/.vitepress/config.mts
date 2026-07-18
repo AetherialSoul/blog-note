@@ -8,7 +8,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Projects', link: '/projects' },
       { text: 'Roadmap', link: '/roadmap' },
-      { text: 'Blog', link: '/blog/2026-07-17-cpp-lessons-06-08' },
+      { text: 'Blog', link: '/blog/2026-07-18-cpp-contest-review' },
       { text: 'Contact', link: '/contact' }
     ],
     sidebar: [
@@ -25,6 +25,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: '用竞赛题复习 C++ 基础', link: '/blog/2026-07-18-cpp-contest-review' },
           { text: 'C++ 从封装走到 STL', link: '/blog/2026-07-17-cpp-lessons-06-08' },
           { text: 'C++ 跟学课堂 01–06', link: '/blog/2026-07-15-cpp-lessons-01-06' },
           { text: '学习视觉组内容', link: '/blog/2026-07-09-vision-group' },
