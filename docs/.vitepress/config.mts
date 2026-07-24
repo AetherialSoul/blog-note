@@ -25,7 +25,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
-          { text: '搭建 RM 自瞄仿真环境', link: '/blog/2026-07-24-rm-simulation-setup' },
+          { text: '跑通 RM 自瞄闭环仿真', link: '/blog/2026-07-24-rm-simulation-setup' },
           { text: '用竞赛题复习 C++ 基础', link: '/blog/2026-07-18-cpp-contest-review' },
           { text: 'C++ 从封装走到 STL', link: '/blog/2026-07-17-cpp-lessons-06-08' },
           { text: 'C++ 跟学课堂 01–06', link: '/blog/2026-07-15-cpp-lessons-01-06' },
