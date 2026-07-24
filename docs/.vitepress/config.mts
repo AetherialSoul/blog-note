@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/blog-note/',
   title: 'RCS and Robotics Notes',
   description: 'RoboMaster, ROS2, Multi-Agent Robotics',
   themeConfig: {

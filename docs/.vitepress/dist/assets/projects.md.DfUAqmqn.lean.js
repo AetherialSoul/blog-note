@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as o,a0 as r}from"./chunks/framework.Bogozrur.js";const h=JSON.parse('{"title":"Projects","description":"","frontmatter":{},"headers":[],"relativePath":"projects.md","filePath":"projects.md"}'),s={name:"projects.md"};function c(i,e,n,p,_,l){return t(),o("div",null,[...e[0]||(e[0]=[r("",5)])])}const k=a(s,[["render",c]]);export{h as __pageData,k as default};
