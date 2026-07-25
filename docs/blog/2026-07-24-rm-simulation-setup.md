@@ -16,6 +16,15 @@
 | 第二轮开火 | 66 发，22 次有效伤害，HP 440 到 0，击毁前哨站 |
 | 安全交还 | 退出时确认 `AITargetMode` 已恢复，外控权已释放 |
 
+## 运行录像
+
+下面这段录像记录了外部视觉接管、云台瞄准和连续开火的实际过程。本轮最终发射 100 发，造成 1,020 点伤害，命中 51 次；退出后控制权已正常交还给游戏。
+
+<video controls preload="metadata" style="width: 100%; max-width: 868px;">
+  <source src="./2026-07-24-rm-simulation-setup.assets/autoaim-demo-20260725-092436.mp4" type="video/mp4">
+  你的浏览器不支持 HTML5 视频播放。请直接下载 <a href="./2026-07-24-rm-simulation-setup.assets/autoaim-demo-20260725-092436.mp4">演示视频</a>。
+</video>
+
 ## 我实际搭了什么
 
 项目运行在 Windows 上，复用真实 RoboMaster 自瞄的检测、PnP、跟踪、瞄准和射击模块，只把输入输出换成了游戏：
