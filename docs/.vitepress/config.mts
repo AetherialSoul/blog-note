@@ -9,7 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Projects', link: '/projects' },
       { text: 'Roadmap', link: '/roadmap' },
-      { text: 'Blog', link: '/blog/2026-07-25-auto-aim-policy-comparison' },
+      { text: 'Blog', link: '/blog/2026-07-28-wsl-terminal-basics' },
       { text: 'Contact', link: '/contact' }
     ],
     sidebar: [
@@ -26,6 +26,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: '用 WSL 开始练 Linux 终端', link: '/blog/2026-07-28-wsl-terminal-basics' },
           { text: '两套自瞄策略的实战切换', link: '/blog/2026-07-25-auto-aim-policy-comparison' },
           { text: '跑通 RM 自瞄闭环仿真', link: '/blog/2026-07-24-rm-simulation-setup' },
           { text: '用竞赛题复习 C++ 基础', link: '/blog/2026-07-18-cpp-contest-review' },

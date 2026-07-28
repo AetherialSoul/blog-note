@@ -13,5 +13,5 @@ RoboMaster 视觉/雷达方向学习者，当前主线是 C++ 工程基础、RCS
 
 - [Projects](/projects)
 - [Roadmap](/roadmap)
-- [Blog](/blog/2026-07-25-auto-aim-policy-comparison)
+- [Blog](/blog/2026-07-28-wsl-terminal-basics)
 - [Contact](/contact)
