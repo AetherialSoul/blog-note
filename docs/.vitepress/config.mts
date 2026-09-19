@@ -26,6 +26,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: 'TACO 阅读笔记：定位与检测怎样共享又解耦', link: '/blog/2026-09-19-taco-reading-notes' },
           { text: 'V2U4Real 阅读笔记：车和无人机协同感知', link: '/blog/2026-09-18-v2u4real-reading-notes' },
           { text: '用 WSL 开始练 Linux 终端', link: '/blog/2026-07-28-wsl-terminal-basics' },
           { text: '两套自瞄策略的实战切换', link: '/blog/2026-07-25-auto-aim-policy-comparison' },
