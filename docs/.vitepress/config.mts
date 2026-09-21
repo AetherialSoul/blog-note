@@ -24,9 +24,16 @@ export default defineConfig({
         ]
       },
       {
+        text: '论文笔记（按首次公开时间）',
+        items: [
+          { text: 'MSGNav：多模态场景图与零样本导航', link: '/blog/2026-09-21-msgnav-reading-notes' },
+          { text: 'V2U4Real：车和无人机协同感知', link: '/blog/2026-09-18-v2u4real-reading-notes' },
+          { text: 'TACO：LiDAR 定位与 3D 检测联合学习', link: '/blog/2026-09-21-taco-reading-notes' }
+        ]
+      },
+      {
         text: '博客',
         items: [
-          { text: 'V2U4Real 阅读笔记：车和无人机协同感知', link: '/blog/2026-09-18-v2u4real-reading-notes' },
           { text: '用 WSL 开始练 Linux 终端', link: '/blog/2026-07-28-wsl-terminal-basics' },
           { text: '两套自瞄策略的实战切换', link: '/blog/2026-07-25-auto-aim-policy-comparison' },
           { text: '跑通 RM 自瞄闭环仿真', link: '/blog/2026-07-24-rm-simulation-setup' },
