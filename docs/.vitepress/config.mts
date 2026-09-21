@@ -26,9 +26,9 @@ export default defineConfig({
       {
         text: '论文笔记（按首次公开时间）',
         items: [
-          { text: 'MSGNav：多模态场景图与零样本导航', link: '/blog/2026-09-21-msgnav-reading-notes' },
-          { text: 'V2U4Real：车和无人机协同感知', link: '/blog/2026-09-18-v2u4real-reading-notes' },
-          { text: 'TACO：LiDAR 定位与 3D 检测联合学习', link: '/blog/2026-09-21-taco-reading-notes' }
+          { text: '2025-11-13 · MSGNav：多模态场景图与零样本导航', link: '/blog/2025-11-13-msgnav-reading-notes' },
+          { text: '2026-03-26 · V2U4Real：车和无人机协同感知', link: '/blog/2026-09-18-v2u4real-reading-notes' },
+          { text: '2026-06 · TACO：LiDAR 定位与 3D 检测联合学习', link: '/blog/2026-06-taco-reading-notes' }
         ]
       },
       {

@@ -2,7 +2,7 @@
 
 读完 V2U4Real 后，我脑子里留下的是感知链条：传感器看到点云和图像，模型检测目标，再把结果交给跟踪或规划。MSGNav 往前走了一层，它想解决的是：机器人已经看到了房间和物体，怎样把这些信息组织起来，最后找到用户说的目标？
 
-这篇论文的预印本于 2025 年 11 月公开，后来收录于 CVPR 2026。按论文首次公开时间，它在这组三篇笔记里最早；按我自己的学习路线，我仍然会把它放在 V2U4Real 和 TACO 后面读，因为它更接近“理解场景并采取行动”。[论文主页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_MSGNav_Unleashing_the_Power_of_Multi-modal_3D_Scene_Graph_for_CVPR_2026_paper.html) · [arXiv 预印本](https://arxiv.org/abs/2511.10376)
+这篇论文的预印本于 2025 年 11 月 13 日公开，后来收录于 CVPR 2026。按论文首次公开时间，它在这组三篇笔记里最早；按我自己的学习路线，我仍然会把它放在 V2U4Real 和 TACO 后面读，因为它更接近“理解场景并采取行动”。[论文主页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_MSGNav_Unleashing_the_Power_of_Multi-modal_3D_Scene_Graph_for_CVPR_2026_paper.html) · [arXiv 预印本](https://arxiv.org/abs/2511.10376)
 
 ## 找到目标，为什么还要做推理
 

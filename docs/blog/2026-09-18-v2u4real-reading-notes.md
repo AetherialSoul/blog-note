@@ -295,5 +295,5 @@ LiDAR 点云 → 特征编码 / BEV → 选择共享内容
 
 ## 接着读
 
-- [TACO：LiDAR 定位和 3D 检测能不能一起学](/blog/2026-09-21-taco-reading-notes)
-- [MSGNav：让场景图保留“看见”的证据](/blog/2026-09-21-msgnav-reading-notes)
+- [TACO：LiDAR 定位和 3D 检测能不能一起学](/blog/2026-06-taco-reading-notes)
+- [MSGNav：让场景图保留“看见”的证据](/blog/2025-11-13-msgnav-reading-notes)

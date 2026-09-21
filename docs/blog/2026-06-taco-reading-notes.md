@@ -2,7 +2,7 @@
 
 V2U4Real 让我先熟悉了点云检测和协同感知。继续往下读 TACO，我遇到一个相邻但不同的问题：自动驾驶既要知道“车现在在地图上的哪里”，也要知道“周围有哪些车和行人”。这两件事都能从 LiDAR 点云里找信息，能不能共用一套网络？
 
-TACO 是 CVPR 2026 的论文，研究 LiDAR 定位和 3D 目标检测的联合学习。它的出发点不是把两个任务简单塞进一个 backbone，而是让网络区分各自需要的特征，再通过任务间监督交换有用信息。[CVPR 2026 论文主页](https://openaccess.thecvf.com/content/CVPR2026/html/Xing_TACO_Task-Aware_Contrastive_Learning_for_Joint_LiDAR_Localization_and_3D_CVPR_2026_paper.html)
+TACO 收录于 2026 年 6 月的 CVPR 论文集，研究 LiDAR 定位和 3D 目标检测的联合学习。官方记录只给出会议月份，所以这里按月份标注。它的出发点不是把两个任务简单塞进一个 backbone，而是让网络区分各自需要的特征，再通过任务间监督交换有用信息。[CVPR 2026 论文主页](https://openaccess.thecvf.com/content/CVPR2026/html/Xing_TACO_Task-Aware_Contrastive_Learning_for_Joint_LiDAR_Localization_and_3D_CVPR_2026_paper.html)
 
 ## 两个任务看的是同一片点云，关心的东西不同
 

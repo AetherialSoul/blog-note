@@ -1,7 +1,7 @@
 # MSGNav 与 TACO 阅读笔记事实核查
 
 核查日期：2026-09-21
-核查范围：`docs/blog/2026-09-21-msgnav-reading-notes.md`、`docs/blog/2026-09-21-taco-reading-notes.md`，以及两篇文章的时间线描述。
+核查范围：`docs/blog/2025-11-13-msgnav-reading-notes.md`、`docs/blog/2026-06-taco-reading-notes.md`，以及三篇文章的时间线描述。
 总体置信度：**高**。关键论文身份、方法模块、数据集规模、指标和公开时间均与论文主页、原文或补充材料相符。关于真实部署能力和跨数据集泛化的判断在文中标为个人问题或推论，没有写成论文已证明的结果。
 
 ## MSGNav 阅读笔记
